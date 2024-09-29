@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZhaoqingLiu
 - 👀 I’m interested in AI and anything new that might change our lives.
-- 🌱 I’m currently pursuing my PhD research with AAII, UTS, Australia, and my current research interests focus on applied ML and XAI.
-- 💞️ I’m looking to collaborate with any like-minded friends on applied AI, or contribute applicable ML algorithms to the open source community. 
+- 🌱 I’m currently pursuing my PhD research with AAII, UTS, Australia, and my current research interests focus on machine learning-enhanced decision support systems and transfer learning.
+- 💞️ I’m looking to collaborate with any like-minded friends on applied AI, or contribute applicable ML algorithms to the open-source community. 
 - 📫 How to reach me: Geo.Liu@outlook.com.
 
 <!---
